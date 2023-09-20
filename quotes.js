@@ -48,7 +48,7 @@ const localQuotes = [
             author: 'Tommy Caldwell'
       },
       {
-            text: 'I find that rock climbing is the finest, most healthiest sport in the whole world. It is much healthier than most; look at baseball, where 10 000 sit on their ass to watch a handful of players',
+            text: 'I find that rock climbing is the finest, most healthiest sport in the whole world. It is much healthier than most; look at baseball, where 10,000 sit on their ass to watch a handful of players.',
             author: 'John Salathe'
       },
       {
